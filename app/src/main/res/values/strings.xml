@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">domoticaApp</string>
+    <string name="slogan">¡Bienvenido a su casa!</string>
+    <string name="login">Inicia Sesión</string>
+    <string name="signin">Registrate</string>
+    <string name="titulo">Aplicacion para uso de domotica</string>
+</resources>
